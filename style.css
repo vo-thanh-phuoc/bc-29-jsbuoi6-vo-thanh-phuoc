@@ -1,0 +1,30 @@
+/* Bài tập 2 */
+#nhapSoX{
+    margin-left: 10px;
+}
+#nhapSoN{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+#ketQua2{
+    margin-bottom: 20px;
+    height: 40px;
+}
+.row .rol-md-4.num{
+    margin-left: 20px;
+}
+/* 
+*Bài tập 3:
+ */
+#nhapSo{
+   margin-left: 10px; 
+}
+#tinhGiaiThua{
+    width: 130px;
+    margin-top: 20px;
+}
+#ketQua3{
+    height: 40px;
+   
+}
